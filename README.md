@@ -55,7 +55,7 @@ especially important to be familiar with the [DAO
 attack](http://www.coindesk.com/understanding-dao-hack-journalists) and how the
 Ethereum Foundation responded to it.  Also, it is important to be familiar with
 the strong objections described in the [Ethereum Classic Declaration Of
-Independence](https://ethereumclassic.github.io/assets/ETC_Declaration_of_Independence.pdf)
+Independence](https://ethereumclassic.github.io/assets/ETC_Declaration_of_Independence.pdf).
 
 ### How is Ethereum Classic related to Bitcoin?
 
@@ -81,12 +81,12 @@ referring to them as *agents*.
 ### What is ether?
 
 Ether and ETC denote the native cryptocurrency used to pay for tasks
-such as installing or modifying smart contracts.
+such as installing new smart contracts.
 
 ### What is gas?
 
 Gas is a made up unit used to denote the amount of *resources* required to do
-tasks such as installing or modifying smart contracts.
+tasks such as installing new smart contracts.
 
 &nbsp;
 
