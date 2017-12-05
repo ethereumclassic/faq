@@ -104,7 +104,7 @@ tasks such as installing new smart contracts.
 
 ### What is a dapp?
 
-A dapp is a distributed application.  They are also referred to as smart
+A dapp is a decentralized application.  They are also referred to as smart
 contracts on the Ethereum Classic system.  The term is used to distinguish
 applications that run on blockchains from centralized applications.
 
