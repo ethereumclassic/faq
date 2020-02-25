@@ -1,6 +1,6 @@
 | Ethereum Classic |
 | --- |
-| <img width="50px" src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC/flat_etc_logo_green.png"> |
+| <img width="50px" src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC/flat_etc_logo_green.png"> |
 | website: *https://ethereumclassic.org* |
 | code repository: *https://github.com/ethereumclassic* |
 | ticker symbol: *ETC* |
@@ -39,7 +39,7 @@
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC_Network_Documentation/etc_network_logo_white_documentation.png" alt="Ethereum Classic Documentation"/>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Network_Documentation/etc_network_logo_white_documentation.png" alt="Ethereum Classic Documentation"/>
   </div>
 <br />
 
@@ -53,9 +53,9 @@ Ethereum Classic is a secure, censorship resistant, reliable, public, trustless 
       <th colspan="3">Ethereum Classic's ETC Logo</th>
     </tr>
     <tr>
-    <td><img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC/text_etc_logo_green.png" alt="ETC Logo" width="250"/></td>
-    <td><img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC/text_etc_logo_black.png" alt="ETC Logo" width="250"/></td>
-    <td><img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC/text_etc_logo_white.png" alt="ETC Logo" width="250"/></td>
+    <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC/text_etc_logo_green.png" alt="ETC Logo" width="250"/></td>
+    <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC/text_etc_logo_black.png" alt="ETC Logo" width="250"/></td>
+    <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC/text_etc_logo_white.png" alt="ETC Logo" width="250"/></td>
     </tr>
   </tbody>
 </table>
@@ -140,9 +140,9 @@ To create a dapp for Ethereum Classic you must program one in a smart contract p
       <th colspan="3">Ethereum Classic's Powered by ETC Button</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/ethereumclassic/Media_Kit/Button_Powered_by_ETC/powered_by_etc_button_white.png" alt="Powered by ETC Button" width="250"/></td>
-      <td><img src="https://github.com/ethereumclassic/Media_Kit/Button_Powered_by_ETC/powered_by_etc_button_grey.png" alt="Powered by ETC Button" width="250"/></td>
-      <td><img src="https://github.com/ethereumclassic/Media_Kit/Button_Powered_by_ETC/powered_by_etc_button_green.png" alt="Powered by ETC Button" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_white.png" alt="Powered by ETC Button" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_grey.png" alt="Powered by ETC Button" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_green.png" alt="Powered by ETC Button" width="250"/></td>
     </tr>
   </tbody>
 </table>
@@ -194,9 +194,9 @@ There is **NO OFFICIAL ANYTHING**.
       <th colspan="3">Ethereum Classic's ETC Fractal Logo</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC_Fractal/etc_logo_fractal_green.png" alt="ETC Fractal Logo" width="250"/></td>
-      <td><img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC_Fractal/etc_logo_fractal_black.png" alt="ETC Fractal Logo" width="250"/></td>
-      <td><img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC_Fractal/etc_logo_fractal_white.png" alt="ETC Fractal Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Fractal/etc_logo_fractal_green.png" alt="ETC Fractal Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Fractal/etc_logo_fractal_black.png" alt="ETC Fractal Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Fractal/etc_logo_fractal_white.png" alt="ETC Fractal Logo" width="250"/></td>
     </tr>
   </tbody>
 </table>
