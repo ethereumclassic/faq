@@ -47,6 +47,10 @@
 ### What is Ethereum Classic?
 Ethereum Classic is a secure, censorship resistant, reliable, public, trustless and decentralized platform for running applications. Ethereum Classic is the continuation of the original Ethereum technology stack launched in 2015.
 
+Video Explainers:
+- [What is Ethereum Technology? A Beginner's Explanation in Plain English](https://youtu.be/jxLkbJozKbY)
+- [Decentralizing Everything with Ethereum's Vitalik Buterin | Disrupt SF 2017](https://youtu.be/WSN5BaCzsbo)
+
 <table>
   <tbody>
     <tr>
@@ -59,10 +63,6 @@ Ethereum Classic is a secure, censorship resistant, reliable, public, trustless 
     </tr>
   </tbody>
 </table>
-
-Video Explainers:
-- [What is Ethereum Technology? A Beginner's Explanation in Plain English](https://youtu.be/jxLkbJozKbY)
-- [Decentralizing Everything with Ethereum's Vitalik Buterin | Disrupt SF 2017](https://youtu.be/WSN5BaCzsbo)
 
 ### How is Ethereum Classic (ETC) related to Ethereum (ETH)?
 To understand the relationship it is important to know the history. It is especially important to be familiar with the [DAO attack](http://www.coindesk.com/understanding-dao-hack-journalists) and how the Ethereum Foundation responded to it.
@@ -123,6 +123,24 @@ Video Explainers:
 - [Ethereum Gas Explained](https://youtu.be/hQ78FVSv-vs)
 - [Ether vs Gas difference | Programmer explains](https://youtu.be/cZ0rYWJzeow)
 
+<table>
+  <tbody>
+    <tr>
+      <th colspan="3">Ethereum Classic's Phoenix Logo</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Green-Full.png" alt="ETC Phoenix Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Green-Partial.png" alt="ETC Phoenix Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Green-Wires.png" alt="ETC Phoenix Logo" width="250"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Fire-Full.png" alt="ETC Phoenix Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Fire-Partial.png" alt="ETC Phoenix Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Blue-Full.png" alt="ETC Phoenix Logo" width="250"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Software
 ### What is a dapp?
 A dapp is a decentralized application. They are also referred to as smart contracts on the Ethereum Classic system. The term is used to distinguish applications that run on blockchains from centralized applications.
@@ -133,19 +151,6 @@ Video Explainers:
 
 ### How do I create a dapp?
 To create a dapp for Ethereum Classic you must program one in a smart contract programming language. Then, you must compile that dapp and install it on the blockchain from a funded account.
-
-<table>
-  <tbody>
-    <tr>
-      <th colspan="3">Ethereum Classic's Powered by ETC Button</th>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_white.png" alt="Powered by ETC Button" width="250"/></td>
-      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_grey.png" alt="Powered by ETC Button" width="250"/></td>
-      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_green.png" alt="Powered by ETC Button" width="250"/></td>
-    </tr>
-  </tbody>
-</table>
 
 Video Explainer:
 - [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://youtu.be/coQ5dg8wM2o)
@@ -160,6 +165,19 @@ Solidity is similar to Javascript and the most popular. Serpent is similar to Py
 Video Explainers:
 - [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://youtu.be/ipwxYa-F1uY)
 - [Understanding Vyper: The slick New Ethereum language](https://youtu.be/rqfM6cxXHB8)
+
+<table>
+  <tbody>
+    <tr>
+      <th colspan="3">Ethereum Classic's Powered by ETC Button</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_white.png" alt="Powered by ETC Button" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_grey.png" alt="Powered by ETC Button" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_green.png" alt="Powered by ETC Button" width="250"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Mining
 ### What is mining?
@@ -183,11 +201,6 @@ Several miners compete to submit blocks to the blockchain. Inevitably some miner
 
 Video Explainer: [https://youtu.be/iIhxtuIhT_g](https://youtu.be/iIhxtuIhT_g)
 
-## Social Channels
-### Public Service Announcement
-There is **NO OFFICIAL ANYTHING**.
->Ethereum Classic is an open source, decentralized project with a global *permissionless* ecosystem. Ethereum Classic's history is checkered with attempts at social attacks on the Ethereum Classic network and it's `assets` or `commons` (e.g.; code repository, website, brand, network history). We see similar social engineering in the Bitcoin ecosystem. It's a negative externality that comes with a truly decentralized project.
-
 <table>
   <tbody>
     <tr>
@@ -200,6 +213,11 @@ There is **NO OFFICIAL ANYTHING**.
     </tr>
   </tbody>
 </table>
+
+## Social Channels
+### Public Service Announcement
+There is **NO OFFICIAL ANYTHING**.
+>Ethereum Classic is an open source, decentralized project with a global *permissionless* ecosystem. Ethereum Classic's history is checkered with attempts at social attacks on the Ethereum Classic network and it's `assets` or `commons` (e.g.; code repository, website, brand, network history). We see similar social engineering in the Bitcoin ecosystem. It's a negative externality that comes with a truly decentralized project.
 
 ### Chat
 - [Discord](https://discordapp.com/invite/HW4GckH)
