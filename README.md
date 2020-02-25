@@ -152,7 +152,7 @@ Video Explainers:
 ### How do I create a dapp?
 To create a dapp for Ethereum Classic you must program one in a smart contract programming language. Then, you must compile that dapp and install it on the blockchain from a funded account.
 
-Video Explainer:
+Video Explainers:
 - [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://youtu.be/coQ5dg8wM2o)
 - [Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://youtu.be/8wMKq7HvbKw)
 
@@ -183,18 +183,19 @@ Video Explainers:
 ### What is mining?
 There are computational tasks involved in adding blocks of transactions to the blockchain. Computers on the Ethereum Classic network that voluntarily perform these tasks get a reward of ether. For security reasons, miners compete to complete these tasks first and win these rewards. This effort is referred to as *mining*.
 
-Video Explainer:
+Video Explainers:
 - [What is Proof of Work?](https://youtu.be/3EUAcxhuoU4)
 - [Bitcoin and cryptocurrency mining explained](https://youtu.be/kZXXDp0_R-w)
 - [A Brief Introduction to LLVM](https://youtu.be/a5-WaD8VV38)
+- [EVM LLVM](https://etclabscore.github.io/evm-llvm-website/)
 
-### What is proof of work information?
+### What is Proof-of-Work information?
 Mining involves doing computational tasks whose sole purpose is to intentionally make mining difficult! This difficulty is required to secure the network against certain attacks. These tasks involve finding certain numbers related to each block. These numbers are referred to as proof of work information.
 
 Video Explainer: [Proof of Work vs Proof of Stake - Clearly Explained](https://youtu.be/y_hEezRilCY)
 
 ### What is a coinbase?
-A coinbase is a special transaction, in every block, that creates new ether added to an account selected by the miner of that block.  It can also refer to the primary account of a user.
+A coinbase is a special transaction, in every block, that creates new ether added to an account selected by the miner of that block.  It can also refer to the primary account of a user. [Bitcoin: Coinbase](https://en.bitcoin.it/wiki/Coinbase)
 
 ### What is an uncle?
 Several miners compete to submit blocks to the blockchain. Inevitably some miners will lose the competition. The blockchain references the losing blocks to make the blockchain more secure. These losing blocks that contribute to the security of the blockchain are referred to as *uncles*. The term comes from the fact that blocks have preceding *parent* blocks. The losing blocks are not parents but are still related to the parents. Hence they are like uncles.
@@ -239,6 +240,7 @@ There is **NO OFFICIAL ANYTHING**.
 
 ### Repository
 - [Github](https://github.com/ethereumclassic)
+- [ETC Awesome List](https://github.com/ethereumclassic/Awesome-ETC)
 
 ### Twitter
 - Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [France](https://twitter.com/ETC_France), [Germany](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Japan](https://twitter.com/ETCJapan), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Netherlands](https://twitter.com/etcnetherlands), [Philippines](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Turkey](https://twitter.com/EtcTurkiye), [Viet Nam](https://twitter.com/ETCVietNam)
