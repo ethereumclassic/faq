@@ -73,6 +73,7 @@ Also, it is important to be familiar with the strong objections described in the
   <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/DAO_Fork/ethereum_contentious_hard_fork.png" alt="Ethereum Project Contentious Hard Fork"/>
   </div>
 <br />
+
 Article: [The Night Poloniex Listed Ethereum Classic](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)
 Video Explainers:
 - [What’s the difference between Ethereum and Ethereum Classic?](https://youtu.be/EaC6YwO_H0U)
