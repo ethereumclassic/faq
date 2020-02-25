@@ -1,4 +1,13 @@
-# FAQ
+| Ethereum Classic |
+| --- |
+| <img width="50px" src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC/flat_etc_logo_green.png"> |
+| website: *https://ethereumclassic.org* |
+| code repository: *https://github.com/ethereumclassic* |
+| ticker symbol: *ETC* |
+| genesis block: 2015-07-30 |
+| updated: *2020-02* |
+
+# Frequently Asked Questions
 ## Contents
 - [Basics](#basics)
   * [What is Ethereum Classic?](#what-is-ethereum-classic-)
@@ -29,9 +38,27 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+<div>
+  <img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC_Network_Documentation/etc_network_logo_white_documentation.png" alt="Ethereum Classic Documentation"/>
+  </div>
+<br />
+
 ## Basics
 ### What is Ethereum Classic?
 Ethereum Classic is a secure, censorship resistant, reliable, public, trustless and decentralized platform for running applications. Ethereum Classic is the continuation of the original Ethereum technology stack launched in 2015.
+
+<table>
+  <tbody>
+    <tr>
+      <th colspan="3">Ethereum Classic's ETC Logo</th>
+    </tr>
+    <tr>
+    <td><img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC/text_etc_logo_green.png" alt="ETC Logo" width="250"/></td>
+    <td><img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC/text_etc_logo_black.png" alt="ETC Logo" width="250"/></td>
+    <td><img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC/text_etc_logo_white.png" alt="ETC Logo" width="250"/></td>
+    </tr>
+  </tbody>
+</table>
 
 Video Explainers:
 - [What is Ethereum Technology? A Beginner's Explanation in Plain English](https://youtu.be/jxLkbJozKbY)
@@ -41,6 +68,11 @@ Video Explainers:
 To understand the relationship it is important to know the history. It is especially important to be familiar with the [DAO attack](http://www.coindesk.com/understanding-dao-hack-journalists) and how the Ethereum Foundation responded to it.
 
 Also, it is important to be familiar with the strong objections described in the [Ethereum Classic Declaration Of Independence](https://github.com/ethereumclassic/DeclarationOfIndependence).
+
+<div>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/DAO_Fork/ethereum_contentious_hard_fork.png" alt="Ethereum Project Contentious Hard Fork"/>
+  </div>
+<br />
 
 Video Explainers:
 - [What’s the difference between Ethereum and Ethereum Classic?](https://youtu.be/EaC6YwO_H0U)
@@ -52,6 +84,10 @@ Video Explainers:
 
 ### How is Ethereum Classic related to Bitcoin?
 Bitcoin was the first blockchain application. Ethereum Classic is a general blockchain platform to run many more types of applications than Bitcoin can.
+
+Articles:
+- [Ethereum Classic (ETC) is Philosophically the Same as Bitcoin and Technically the Same as Ethereum](https://etherplan.com/2019/06/13/ethereum-classic-etc-is-philosophically-the-same-as-bitcoin-and-technically-the-same-as-ethereum/7788/)
+- [Bitcoin and Ethereum Classic (ETC) will be Complementary Base Layer Systems](https://etherplan.com/2019/06/14/bitcoin-and-ethereum-classic-etc-will-be-complementary-base-layer-systems/7804/)
 
 Video Explainers:
 - [Ethereum vs Bitcoin | Explained (For Beginners)](https://youtu.be/d94l-_3B6dM)
@@ -98,6 +134,19 @@ Video Explainers:
 ### How do I create a dapp?
 To create a dapp for Ethereum Classic you must program one in a smart contract programming language. Then, you must compile that dapp and install it on the blockchain from a funded account.
 
+<table>
+  <tbody>
+    <tr>
+      <th colspan="3">Ethereum Classic's Powered by ETC Button</th>
+    </tr>
+    <tr>
+      <td><img src="./Button_Powered_by_ETC/powered_by_etc_button_white.png" alt="Powered by ETC Button" width="250"/></td>
+      <td><img src="./Button_Powered_by_ETC/powered_by_etc_button_grey.png" alt="Powered by ETC Button" width="250"/></td>
+      <td><img src="./Button_Powered_by_ETC/powered_by_etc_button_green.png" alt="Powered by ETC Button" width="250"/></td>
+    </tr>
+  </tbody>
+</table>
+
 Video Explainer:
 - [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://youtu.be/coQ5dg8wM2o)
 - [Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://youtu.be/8wMKq7HvbKw)
@@ -138,6 +187,19 @@ Video Explainer: [https://youtu.be/iIhxtuIhT_g](https://youtu.be/iIhxtuIhT_g)
 ### Public Service Announcement
 There is **NO OFFICIAL ANYTHING**.
 >Ethereum Classic is an open source, decentralized project with a global *permissionless* ecosystem. Ethereum Classic's history is checkered with attempts at social attacks on the Ethereum Classic network and it's `assets` or `commons` (e.g.; code repository, website, brand, network history). We see similar social engineering in the Bitcoin ecosystem. It's a negative externality that comes with a truly decentralized project.
+
+<table>
+  <tbody>
+    <tr>
+      <th colspan="3">Ethereum Classic's ETC Fractal Logo</th>
+    </tr>
+    <tr>
+      <td><img src="./Logo_ETC_Fractal/etc_logo_fractal_green.png" alt="ETC Fractal Logo" width="250"/></td>
+      <td><img src="./Logo_ETC_Fractal/etc_logo_fractal_black.png" alt="ETC Fractal Logo" width="250"/></td>
+      <td><img src="./Logo_ETC_Fractal/etc_logo_fractal_white.png" alt="ETC Fractal Logo" width="250"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Chat
 - [Discord](https://discordapp.com/invite/HW4GckH)
