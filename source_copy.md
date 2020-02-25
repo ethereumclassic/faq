@@ -1,6 +1,6 @@
 What is Ethereum Classic?
 
-Ethereum Classic is a secure, censorproof, reliable, public, trustless and
+Ethereum Classic is a secure, censorship resistant, reliable, public, trustless and
 decentralized platform for running applications.
 
 How is Ethereum Classic related to Ethereum?
@@ -10,7 +10,7 @@ especially important to be familiar with the [DAO
 attack](http://www.coindesk.com/understanding-dao-hack-journalists) and how the
 Ethereum Foundation responded to it.  Also, it is important to be familiar with
 the strong objections described in the [Ethereum Classic Declaration Of
-Independence](https://ethereumclassic.github.io/assets/ETC_Declaration_of_Independence.pdf).
+Independence](https://github.com/ethereumclassic/DeclarationOfIndependence).
 
 How is Ethereum Classic related to Bitcoin?
 
@@ -96,15 +96,39 @@ security of the blockchain are referred to as *uncles*.  The term comes from the
 fact that blocks have preceding *parent* blocks. The losing blocks are not
 parents but are still related to the parents.  Hence they are like uncles.
 
-How do I interact with the community?
+## Social Channels
+### Public Service Announcement
+There is **NO OFFICIAL ANYTHING**.
+>Ethereum Classic is an open source, decentralized project with a global *permissionless* ecosystem. Ethereum Classic's history is checkered with attempts at social attacks on the Ethereum Classic network and it's `assets` or `commons` (e.g.; code repository, website, brand, network history). We see similar social engineering in the Bitcoin ecosystem. It's a negative externality that comes with a truly decentralized project.
 
-There are several ways.  The most important are the [Slack
-channels](http://ethereumclassic.herokuapp.com/).  There is also a [Reddit
-forum](https://www.reddit.com/r/EthereumClassic/).  Finally, several
-projects are hosted on [Github](https://github.com/ethereumproject).
+### Chat
+- [Discord](https://discordapp.com/invite/HW4GckH)
+- [Facebook](https://www.facebook.com/EthereumClassicETC/)
+- Kakao: [Korea](https://open.kakao.com/o/gi4uNJ1)
+- Matrix (Developer Chat): [Riot.im](https://riot.im/app/#/room/#ecips:matrix.org)
+- Slack: [Ethereum Classic](https://ethereumclassic.herokuapp.com/)
+- Telegram: [Arabic](https://t.me/EtherClassic_Ar), [China](https://t.me/etczh), [English](https://telegram.me/ethclassic), [English](https://t.me/etcchat), [Español](https://t.me/ethclassicesp), [German](https://t.me/EtherCalssic_de), [Italia](https://t.me/ETC_Italia), [Russia](https://telegram.me/etcrussia), [Russia](https://telegram.me/etcru), [Viet Nam](https://t.me/ETCVietnam)
+- Tencent QQ: ETC Asia-769408114
+- WeChat: [insert link] *Note:* source QR images from ETC Coop and Chinese Websites.
 
-How do I learn about related news?
+### Forum
+- BitcoinTalk: [ETC Current](https://bitcointalk.org/index.php?topic=5134923), [ETC Archived](https://bitcointalk.org/index.php?topic=1559630.0),
+- Reddit: [r/EthereumClassic](https://www.reddit.com/r/EthereumClassic/)
 
-You can follow things on [Twitter](https://twitter.com/eth_classic),
-[Reddit](https://www.reddit.com/r/EthereumClassic/) or
-[Facebook](https://www.facebook.com/EthereumClassicETC/) for a start.
+### Podcasts
+- [EVM61](https://www.youtube.com/playlist?list=PLiW3acHwcR6LAa_WS5sFWf1S_GquYVeJb)
+- [Explore The Chain](https://www.youtube.com/playlist?list=PL8fotqNQa4-UGxH8rCqeHAtOG56OyhZGf)
+- [Let's Talk ETC!](https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5)
+
+### Repository
+- [Github](https://github.com/ethereumclassic)
+- [ETC Awesome List](https://github.com/ethereumclassic/Awesome-ETC)
+
+### Twitter
+- Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [France](https://twitter.com/ETC_France), [Germany](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Japan](https://twitter.com/ETCJapan), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Netherlands](https://twitter.com/etcnetherlands), [Philippines](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Turkey](https://twitter.com/EtcTurkiye), [Viet Nam](https://twitter.com/ETCVietNam)
+
+### Websites
+- [EthereumClassic.org](https://ethereumclassic.org)
+- Region Specific Sites: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/), [Korea](https://www.ethereumclassickorea.com/)
+
+Note: If your social channel is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).

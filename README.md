@@ -224,6 +224,7 @@ There is **NO OFFICIAL ANYTHING**.
 
 ### Chat
 - [Discord](https://discordapp.com/invite/HW4GckH)
+- [Facebook](https://www.facebook.com/EthereumClassicETC/)
 - Kakao: [Korea](https://open.kakao.com/o/gi4uNJ1)
 - Matrix (Developer Chat): [Riot.im](https://riot.im/app/#/room/#ecips:matrix.org)
 - Slack: [Ethereum Classic](https://ethereumclassic.herokuapp.com/)
