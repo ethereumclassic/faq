@@ -10,7 +10,7 @@ especially important to be familiar with the [DAO
 attack](http://www.coindesk.com/understanding-dao-hack-journalists) and how the
 Ethereum Foundation responded to it.  Also, it is important to be familiar with
 the strong objections described in the [Ethereum Classic Declaration Of
-Independence](https://github.com/ethereumclassic/DeclarationOfIndependence).
+Independence](https://github.com/ethereumclassic/wiki/wiki/The-Ethereum-Classic-Declaration-Of-Independence).
 
 How is Ethereum Classic related to Bitcoin?
 
