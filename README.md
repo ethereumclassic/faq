@@ -1,6 +1,6 @@
 | Ethereum Classic |
 | --- |
-| <img width="50px" src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC/flat_etc_logo_green.png"> |
+| <img width="250px" src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC/flat_etc_logo_green.png"> |
 | website: *https://ethereumclassic.org* |
 | code repository: *https://github.com/ethereumclassic* |
 | ticker symbol: *ETC* |
@@ -248,3 +248,16 @@ There is **NO OFFICIAL ANYTHING**.
 - Region Specific Sites: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/), [Korea](https://www.ethereumclassickorea.com/)
 
 Note: If your social channel is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
+
+<table>
+  <tbody>
+    <tr>
+      <th colspan="3">Ethereum Classic's ETC Network Logo</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Network/etc_network_logo_white_2000x2000.png" alt="ETC Network Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Network/etc_network_logo_black_2000x2000.png" alt="ETC Network Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Network/etc_network_logo_grey_2000x2000.png" alt="ETC Network Logo" width="250"/></td>
+    </tr>
+  </tbody>
+</table>
