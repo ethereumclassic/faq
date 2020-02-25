@@ -38,7 +38,7 @@ Video Explainers:
 - [Decentralizing Everything with Ethereum's Vitalik Buterin | Disrupt SF 2017](https://youtu.be/WSN5BaCzsbo)
 
 ### How is Ethereum Classic (ETC) related to Ethereum (ETH)?
-To understand the relationship it is important to know the history.  It is especially important to be familiar with the [DAO attack](http://www.coindesk.com/understanding-dao-hack-journalists) and how the Ethereum Foundation responded to it.
+To understand the relationship it is important to know the history. It is especially important to be familiar with the [DAO attack](http://www.coindesk.com/understanding-dao-hack-journalists) and how the Ethereum Foundation responded to it.
 
 Also, it is important to be familiar with the strong objections described in the [Ethereum Classic Declaration Of Independence](https://github.com/ethereumclassic/DeclarationOfIndependence).
 
@@ -51,7 +51,7 @@ Video Explainers:
 - [Understanding smart contracts & The DAO hack in detail](https://youtu.be/AfyB1VlnLNU)
 
 ### How is Ethereum Classic related to Bitcoin?
-Bitcoin was the first blockchain application.  Ethereum Classic is a general blockchain platform to run many more types of applications than Bitcoin can.
+Bitcoin was the first blockchain application. Ethereum Classic is a general blockchain platform to run many more types of applications than Bitcoin can.
 
 Video Explainers:
 - [Ethereum vs Bitcoin | Explained (For Beginners)](https://youtu.be/d94l-_3B6dM)
@@ -59,7 +59,7 @@ Video Explainers:
 - [Ethereum vs Bitcoin Technical Differences | Which Blockchain Technology is Better?](https://youtu.be/fdWoNBt6CcY)
 
 ### What is a blockchain?
-A blockchain is a special type of distributed database.  The most significant attribute of blockchains is that no one controls them!  There is no one everybody needs to trust to manage it.  That is why they are referred to as being trustless.  Users submit tasks in *transactions* that are grouped into *blocks* that are linked together to form *chains*.
+A blockchain is a special type of distributed database. The most significant attribute of blockchains is that no one controls them!  There is no one everybody needs to trust to manage it. That is why they are referred to as being trustless. Users submit tasks in *transactions* that are grouped into *blocks* that are linked together to form *chains*.
 
 Video Explainers:
 - [How does a blockchain work - Simply Explained](https://youtu.be/SSo_EIwHSd4)
@@ -68,7 +68,7 @@ Video Explainers:
 - [Blockchain Explained](https://youtu.be/QphJEO9ZX6s)
 
 ### What is a smart contract?
-Smart contracts are computer systems that manage assets such as automatic teller machines and the Bitcoin system.  Ethereum Classic is able to run many types of smart contracts.  If Ethereum Classic smart contracts are not mainly financial, it makes more sense to emphasize their autonomy by referring to them as *agents*.
+Smart contracts are computer systems that manage assets such as automatic teller machines and the Bitcoin system. Ethereum Classic is able to run many types of smart contracts. If Ethereum Classic smart contracts are not mainly financial, it makes more sense to emphasize their autonomy by referring to them as *agents*.
 
 Video Explainers:
 - [A Beginner's Guide to Smart Contracts](https://youtu.be/RZXJMdAk5zk)
@@ -76,8 +76,7 @@ Video Explainers:
 - [Smart Contracts - What Are They? (Plus Examples)](https://youtu.be/DhNyD8Cj0dg)
 
 ### What is ether?
-Ether and ETC denote the native cryptocurrency used to pay for tasks
-such as installing new smart contracts.
+Ether and ETC denote the native cryptocurrency used to pay for tasks such as installing new smart contracts.
 
 Video Explainer: [What is Ether and Ethereum?](https://youtu.be/fjnovGRQrRE)
 
@@ -90,24 +89,24 @@ Video Explainers:
 
 ## Software
 ### What is a dapp?
-A dapp is a decentralized application.  They are also referred to as smart contracts on the Ethereum Classic system.  The term is used to distinguish applications that run on blockchains from centralized applications.
+A dapp is a decentralized application. They are also referred to as smart contracts on the Ethereum Classic system. The term is used to distinguish applications that run on blockchains from centralized applications.
 
 Video Explainers:
 - [What is a Dapp?](https://youtu.be/CDQX8inMCt0)
 - [What is a dApp? Decentralized Application on the Blockchain](https://youtu.be/F50OrwV6Uk8)
 
 ### How do I create a dapp?
-To create a dapp for Ethereum Classic you must program one in a smart contract programming language.  Then, you must compile that dapp and install it on the blockchain from a funded account.
+To create a dapp for Ethereum Classic you must program one in a smart contract programming language. Then, you must compile that dapp and install it on the blockchain from a funded account.
 
 Video Explainer:
 - [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://youtu.be/coQ5dg8wM2o)
 - [Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://youtu.be/8wMKq7HvbKw)
 
 ### How do I purchase ether for an account?
-You can purchase ether on several [*exchanges*](https://ethereumclassic.org/exchanges).  You can also [*mine*](https://ethereumclassic.org/mining) for ether.
+You can purchase ether on several [*exchanges*](https://ethereumclassic.org/exchanges). You can also [*mine*](https://ethereumclassic.org/mining) for ether.
 
 ### What smart contract programming languages are there?
-Solidity is similar to Javascript and the most popular.  Serpent is similar to Python and also available.  LLL is yet another choice that is similar to Lisp.  There are other smart contract languages being developed as well.
+Solidity is similar to Javascript and the most popular. Serpent is similar to Python and also available. LLL is yet another choice that is similar to Lisp.  There are other smart contract languages being developed as well.
 
 Video Explainers:
 - [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://youtu.be/ipwxYa-F1uY)
@@ -115,7 +114,7 @@ Video Explainers:
 
 ## Mining
 ### What is mining?
-There are computational tasks involved in adding blocks of transactions to the blockchain.  Computers on the Ethereum Classic network that voluntarily perform these tasks get a reward of ether.  For security reasons, miners compete to complete these tasks first and win these rewards.  This effort is referred to as *mining*.
+There are computational tasks involved in adding blocks of transactions to the blockchain. Computers on the Ethereum Classic network that voluntarily perform these tasks get a reward of ether. For security reasons, miners compete to complete these tasks first and win these rewards. This effort is referred to as *mining*.
 
 Video Explainer:
 - [What is Proof of Work?](https://youtu.be/3EUAcxhuoU4)
@@ -123,7 +122,7 @@ Video Explainer:
 - [A Brief Introduction to LLVM](https://youtu.be/a5-WaD8VV38)
 
 ### What is proof of work information?
-Mining involves doing computational tasks whose sole purpose is to intentionally make mining difficult!  This difficulty is required to secure the network against certain attacks.  These tasks involve finding certain numbers related to each block.  These numbers are referred to as proof of work information.
+Mining involves doing computational tasks whose sole purpose is to intentionally make mining difficult! This difficulty is required to secure the network against certain attacks. These tasks involve finding certain numbers related to each block. These numbers are referred to as proof of work information.
 
 Video Explainer: [Proof of Work vs Proof of Stake - Clearly Explained](https://youtu.be/y_hEezRilCY)
 
