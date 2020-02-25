@@ -140,9 +140,9 @@ To create a dapp for Ethereum Classic you must program one in a smart contract p
       <th colspan="3">Ethereum Classic's Powered by ETC Button</th>
     </tr>
     <tr>
-      <td><img src="./Button_Powered_by_ETC/powered_by_etc_button_white.png" alt="Powered by ETC Button" width="250"/></td>
-      <td><img src="./Button_Powered_by_ETC/powered_by_etc_button_grey.png" alt="Powered by ETC Button" width="250"/></td>
-      <td><img src="./Button_Powered_by_ETC/powered_by_etc_button_green.png" alt="Powered by ETC Button" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/Button_Powered_by_ETC/powered_by_etc_button_white.png" alt="Powered by ETC Button" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/Button_Powered_by_ETC/powered_by_etc_button_grey.png" alt="Powered by ETC Button" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/Button_Powered_by_ETC/powered_by_etc_button_green.png" alt="Powered by ETC Button" width="250"/></td>
     </tr>
   </tbody>
 </table>
@@ -194,9 +194,9 @@ There is **NO OFFICIAL ANYTHING**.
       <th colspan="3">Ethereum Classic's ETC Fractal Logo</th>
     </tr>
     <tr>
-      <td><img src="./Logo_ETC_Fractal/etc_logo_fractal_green.png" alt="ETC Fractal Logo" width="250"/></td>
-      <td><img src="./Logo_ETC_Fractal/etc_logo_fractal_black.png" alt="ETC Fractal Logo" width="250"/></td>
-      <td><img src="./Logo_ETC_Fractal/etc_logo_fractal_white.png" alt="ETC Fractal Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC_Fractal/etc_logo_fractal_green.png" alt="ETC Fractal Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC_Fractal/etc_logo_fractal_black.png" alt="ETC Fractal Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/Logo_ETC_Fractal/etc_logo_fractal_white.png" alt="ETC Fractal Logo" width="250"/></td>
     </tr>
   </tbody>
 </table>
