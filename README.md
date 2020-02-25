@@ -75,6 +75,7 @@ Also, it is important to be familiar with the strong objections described in the
 <br />
 
 Article: [The Night Poloniex Listed Ethereum Classic](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)
+
 Video Explainers:
 - [What’s the difference between Ethereum and Ethereum Classic?](https://youtu.be/EaC6YwO_H0U)
 - [Ethereum vs Ethereum Classic: Why Did They Split?](https://youtu.be/IOuEgLKqqjE)
