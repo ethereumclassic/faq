@@ -1,4 +1,13 @@
-# FAQ
+| Ethereum Classic |
+| --- |
+| <img width="100" src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC/etc_logo_green.png"> |
+| website: *https://ethereumclassic.org* |
+| code repository: *https://github.com/ethereumclassic* |
+| ticker symbol: *ETC* |
+| genesis block: 2015-07-30 |
+| updated: *2020-02* |
+
+# Frequently Asked Questions
 ## Contents
 - [Basics](#basics)
   * [What is Ethereum Classic?](#what-is-ethereum-classic-)
@@ -29,6 +38,11 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+<div>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Network_Documentation/etc_network_logo_white_documentation.png" alt="Ethereum Classic Documentation"/>
+  </div>
+<br />
+
 ## Basics
 ### What is Ethereum Classic?
 Ethereum Classic is a secure, censorship resistant, reliable, public, trustless and decentralized platform for running applications. Ethereum Classic is the continuation of the original Ethereum technology stack launched in 2015.
@@ -37,10 +51,30 @@ Video Explainers:
 - [What is Ethereum Technology? A Beginner's Explanation in Plain English](https://youtu.be/jxLkbJozKbY)
 - [Decentralizing Everything with Ethereum's Vitalik Buterin | Disrupt SF 2017](https://youtu.be/WSN5BaCzsbo)
 
+<table>
+  <tbody>
+    <tr>
+      <th colspan="3">Ethereum Classic's ETC Logo</th>
+    </tr>
+    <tr>
+    <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC/text_etc_logo_green.png" alt="ETC Logo" width="250"/></td>
+    <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC/text_etc_logo_black.png" alt="ETC Logo" width="250"/></td>
+    <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC/text_etc_logo_white.png" alt="ETC Logo" width="250"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ### How is Ethereum Classic (ETC) related to Ethereum (ETH)?
 To understand the relationship it is important to know the history. It is especially important to be familiar with the [DAO attack](http://www.coindesk.com/understanding-dao-hack-journalists) and how the Ethereum Foundation responded to it.
 
-Also, it is important to be familiar with the strong objections described in the [Ethereum Classic Declaration Of Independence](https://github.com/ethereumclassic/DeclarationOfIndependence).
+Also, it is important to be familiar with the strong objections described in the [Ethereum Classic Declaration Of Independence](https://github.com/ethereumclassic/wiki/wiki/The-Ethereum-Classic-Declaration-Of-Independence).
+
+<div>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/DAO_Fork/ethereum_contentious_hard_fork.png" alt="Ethereum Project Contentious Hard Fork"/>
+  </div>
+<br />
+
+Article: [The Night Poloniex Listed Ethereum Classic](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)
 
 Video Explainers:
 - [What’s the difference between Ethereum and Ethereum Classic?](https://youtu.be/EaC6YwO_H0U)
@@ -52,6 +86,10 @@ Video Explainers:
 
 ### How is Ethereum Classic related to Bitcoin?
 Bitcoin was the first blockchain application. Ethereum Classic is a general blockchain platform to run many more types of applications than Bitcoin can.
+
+Articles:
+- [Ethereum Classic (ETC) is Philosophically the Same as Bitcoin and Technically the Same as Ethereum](https://etherplan.com/2019/06/13/ethereum-classic-etc-is-philosophically-the-same-as-bitcoin-and-technically-the-same-as-ethereum/7788/)
+- [Bitcoin and Ethereum Classic (ETC) will be Complementary Base Layer Systems](https://etherplan.com/2019/06/14/bitcoin-and-ethereum-classic-etc-will-be-complementary-base-layer-systems/7804/)
 
 Video Explainers:
 - [Ethereum vs Bitcoin | Explained (For Beginners)](https://youtu.be/d94l-_3B6dM)
@@ -87,6 +125,24 @@ Video Explainers:
 - [Ethereum Gas Explained](https://youtu.be/hQ78FVSv-vs)
 - [Ether vs Gas difference | Programmer explains](https://youtu.be/cZ0rYWJzeow)
 
+<table>
+  <tbody>
+    <tr>
+      <th colspan="3">Ethereum Classic's Phoenix Logo</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Green-Full.png" alt="ETC Phoenix Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Green-Partial.png" alt="ETC Phoenix Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Green-Wires.png" alt="ETC Phoenix Logo" width="250"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Fire-Full.png" alt="ETC Phoenix Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Fire-Partial.png" alt="ETC Phoenix Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Blue-Full.png" alt="ETC Phoenix Logo" width="250"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Software
 ### What is a dapp?
 A dapp is a decentralized application. They are also referred to as smart contracts on the Ethereum Classic system. The term is used to distinguish applications that run on blockchains from centralized applications.
@@ -98,7 +154,7 @@ Video Explainers:
 ### How do I create a dapp?
 To create a dapp for Ethereum Classic you must program one in a smart contract programming language. Then, you must compile that dapp and install it on the blockchain from a funded account.
 
-Video Explainer:
+Video Explainers:
 - [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://youtu.be/coQ5dg8wM2o)
 - [Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://youtu.be/8wMKq7HvbKw)
 
@@ -112,27 +168,54 @@ Video Explainers:
 - [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://youtu.be/ipwxYa-F1uY)
 - [Understanding Vyper: The slick New Ethereum language](https://youtu.be/rqfM6cxXHB8)
 
+<table>
+  <tbody>
+    <tr>
+      <th colspan="3">Ethereum Classic's Powered by ETC Button</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_white.png" alt="Powered by ETC Button" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_grey.png" alt="Powered by ETC Button" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_green.png" alt="Powered by ETC Button" width="250"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Mining
 ### What is mining?
 There are computational tasks involved in adding blocks of transactions to the blockchain. Computers on the Ethereum Classic network that voluntarily perform these tasks get a reward of ether. For security reasons, miners compete to complete these tasks first and win these rewards. This effort is referred to as *mining*.
 
-Video Explainer:
+Video Explainers:
 - [What is Proof of Work?](https://youtu.be/3EUAcxhuoU4)
 - [Bitcoin and cryptocurrency mining explained](https://youtu.be/kZXXDp0_R-w)
 - [A Brief Introduction to LLVM](https://youtu.be/a5-WaD8VV38)
+- [EVM LLVM](https://etclabscore.github.io/evm-llvm-website/)
 
-### What is proof of work information?
+### What is Proof-of-Work information?
 Mining involves doing computational tasks whose sole purpose is to intentionally make mining difficult! This difficulty is required to secure the network against certain attacks. These tasks involve finding certain numbers related to each block. These numbers are referred to as proof of work information.
 
 Video Explainer: [Proof of Work vs Proof of Stake - Clearly Explained](https://youtu.be/y_hEezRilCY)
 
 ### What is a coinbase?
-A coinbase is a special transaction, in every block, that creates new ether added to an account selected by the miner of that block.  It can also refer to the primary account of a user.
+A coinbase is a special transaction, in every block, that creates new ether added to an account selected by the miner of that block.  It can also refer to the primary account of a user. [Bitcoin: Coinbase](https://en.bitcoin.it/wiki/Coinbase)
 
 ### What is an uncle?
 Several miners compete to submit blocks to the blockchain. Inevitably some miners will lose the competition. The blockchain references the losing blocks to make the blockchain more secure. These losing blocks that contribute to the security of the blockchain are referred to as *uncles*. The term comes from the fact that blocks have preceding *parent* blocks. The losing blocks are not parents but are still related to the parents. Hence they are like uncles.
 
 Video Explainer: [https://youtu.be/iIhxtuIhT_g](https://youtu.be/iIhxtuIhT_g)
+
+<table>
+  <tbody>
+    <tr>
+      <th colspan="3">Ethereum Classic's ETC Fractal Logo</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Fractal/etc_logo_fractal_green.png" alt="ETC Fractal Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Fractal/etc_logo_fractal_black.png" alt="ETC Fractal Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Fractal/etc_logo_fractal_white.png" alt="ETC Fractal Logo" width="250"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Social Channels
 ### Public Service Announcement
@@ -141,6 +224,7 @@ There is **NO OFFICIAL ANYTHING**.
 
 ### Chat
 - [Discord](https://discordapp.com/invite/HW4GckH)
+- [Facebook](https://www.facebook.com/EthereumClassicETC/)
 - Kakao: [Korea](https://open.kakao.com/o/gi4uNJ1)
 - Matrix (Developer Chat): [Riot.im](https://riot.im/app/#/room/#ecips:matrix.org)
 - Slack: [Ethereum Classic](https://ethereumclassic.herokuapp.com/)
@@ -159,6 +243,7 @@ There is **NO OFFICIAL ANYTHING**.
 
 ### Repository
 - [Github](https://github.com/ethereumclassic)
+- [ETC Awesome List](https://github.com/ethereumclassic/Awesome-ETC)
 
 ### Twitter
 - Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [France](https://twitter.com/ETC_France), [Germany](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Japan](https://twitter.com/ETCJapan), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Netherlands](https://twitter.com/etcnetherlands), [Philippines](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Turkey](https://twitter.com/EtcTurkiye), [Viet Nam](https://twitter.com/ETCVietNam)
@@ -168,3 +253,16 @@ There is **NO OFFICIAL ANYTHING**.
 - Region Specific Sites: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/), [Korea](https://www.ethereumclassickorea.com/)
 
 Note: If your social channel is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
+
+<table>
+  <tbody>
+    <tr>
+      <th colspan="3">Ethereum Classic's ETC Network Logo</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Network/etc_network_logo_white_2000x2000.png" alt="ETC Network Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Network/etc_network_logo_black_2000x2000.png" alt="ETC Network Logo" width="250"/></td>
+      <td><img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Network/etc_network_logo_grey_2000x2000.png" alt="ETC Network Logo" width="250"/></td>
+    </tr>
+  </tbody>
+</table>
